@@ -1,10 +1,11 @@
 # Quanlykhachsan
-Tên đề tài: PHẦN MỀM QUẢN LÝ KHÁCH SẠN
+## Tên đề tài: PHẦN MỀM QUẢN LÝ KHÁCH SẠN
 
-1. Goals and Objectives
-1.1. Business Objectives
+### 1. Goals and Objectives
+#### 1.1. Business Objectives
 	- Gồm các chức năng: Quản lý phòng (đặt, hủy, sửa thông tin phòng), tạo và xem các loại báo cáo, lập hóa đơn thanh toán,  checkin & checkout.
-1.2. Goals 
+####
+#### 1.2. Goals 
   - Xây dựng phần mềm dùng cho máy tính cá nhân.
   - Người sử dụng: Nhân viên bán hàng, lễ tân, quản lý khách sạn.
   - Nhân viên lễ tân có các chức năng: tìm phòng trống, checkin & checkout,sửa thông tin và tra cứu thông tin của khách hàng trên hệ thống và nhập dữ liệu các dịch vụ để thanh toán, in hóa đơn cho khách.
